@@ -21,12 +21,14 @@
         "scripts/ui.js",
         "scripts/videoui.js",
         "scripts/biliscope.js",
-        "scripts/load.js"
+        "scripts/load.js",
+        "scripts/filter.js"
       ],
       "css": [
         "css/idcard.css",
         "css/videocard.css",
-        "css/searchpage.css"
+        "css/searchpage.css",
+        "css/filter.css"
       ],
       "matches": [
         "https://*.bilibili.com/*"
